@@ -1,0 +1,23 @@
+[
+{ "id": 0, "name": "Grommash el Valiente", "faction": "Alianza", "profession": "Guerrero", "race": "Humano" },
+    { "id": 1, "name": "Thalia la Sabia", "faction": "Alianza", "profession": "Mago", "race": "Elfo" },
+    { "id": 2, "name": "Drakkar el Indómito", "faction": "Alianza", "profession": "Paladín", "race": "Enano" },
+    { "id": 3, "name": "Sylvanas la Oscura", "faction": "Horda", "profession": "Cazadora", "race": "Elfa de la Noche" },
+    { "id": 4, "name": "Grok el Despiadado", "faction": "Horda", "profession": "Chamán", "race": "Orco" },
+    { "id": 5, "name": "Ragnok el Destructor", "faction": "Horda", "profession": "Guerrero", "race": "Trol" },
+    { "id": 6, "name": "Fiora la Justa", "faction": "Alianza", "profession": "Paladín", "race": "Humano" },
+    { "id": 7, "name": "Zar'jhan el Místico", "faction": "Horda", "profession": "Mago", "race": "Trol" },
+    { "id": 8, "name": "Arya la Sigilosa", "faction": "Alianza", "profession": "Ladrona", "race": "Humano" },
+    { "id": 9, "name": "Thurin el Forjador", "faction": "Alianza", "profession": "Herrero", "race": "Enano" },
+    { "id": 10, "name": "Lyra la Curadora", "faction": "Alianza", "profession": "Sacerdotisa", "race": "Elfa" },
+    { "id": 11, "name": "Gornak el Feroz", "faction": "Horda", "profession": "Guerrero", "race": "Orco" },
+    { "id": 12, "name": "Morgana la Oscura", "faction": "Horda", "profession": "Bruja", "race": "Trol" },
+    { "id": 13, "name": "Borin el Justiciero", "faction": "Alianza", "profession": "Paladín", "race": "Enano" },
+    { "id": 14, "name": "Vexia la Astuta", "faction": "Horda", "profession": "Ladrona", "race": "Elfa de la Noche" },
+    { "id": 15, "name": "Balfor el Vigilante", "faction": "Alianza", "profession": "Guerrero", "race": "Humano" },
+    { "id": 16, "name": "Kragh el Implacable", "faction": "Horda", "profession": "Guerrero", "race": "Orco" },
+    { "id": 17, "name": "Elena la Sabia", "faction": "Alianza", "profession": "Maga", "race": "Elfa" },
+    { "id": 18, "name": "Drogar el Devastador", "faction": "Horda", "profession": "Guerrero", "race": "Trol" },
+    { "id": 19, "name": "Fenris el Astuto", "faction": "Horda", "profession": "Ladron", "race": "Elfo" }
+]
+  
