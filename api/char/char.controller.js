@@ -2,6 +2,8 @@ const Char = require("./char.model");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const { setError } = require("../../utils/error");
+const HTTPSTATUSCODE = require("../../utils/httpStatusCode")
+
 
 const createChar = async (req, res, next) => {
   try {
